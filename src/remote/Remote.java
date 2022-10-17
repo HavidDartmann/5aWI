@@ -1,7 +1,5 @@
 package remote;
 
-import car.Tyre;
-
 import java.util.ArrayList;
 import java.util.List;
 
