@@ -31,6 +31,10 @@ public class Car {
         this.mileage = mileage;
     }
 
+    public void drive(){
+        System.out.println("Driving");
+    }
+
     public String getColor() {
         return color;
     }
