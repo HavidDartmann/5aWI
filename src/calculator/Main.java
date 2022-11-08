@@ -12,6 +12,6 @@ public class Main {
         System.out.println(calculator.divide(80, 5));
         System.out.println(scienceCalculator.sin(90));
         System.out.println(rootCalculator.sqrt(9));
-        System.out.println(scienceCalculator.add(5,1));
+        System.out.println(scienceCalculator.add(5,2));
     }
 }
